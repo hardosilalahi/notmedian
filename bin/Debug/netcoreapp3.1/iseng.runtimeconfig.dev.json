@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hardo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hardo\\.nuget\\packages"
+    ]
+  }
+}

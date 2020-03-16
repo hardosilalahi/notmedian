@@ -1,0 +1,11 @@
+D:\belajar\iseng\bin\Debug\netcoreapp3.1\iseng.exe
+D:\belajar\iseng\bin\Debug\netcoreapp3.1\iseng.deps.json
+D:\belajar\iseng\bin\Debug\netcoreapp3.1\iseng.runtimeconfig.json
+D:\belajar\iseng\bin\Debug\netcoreapp3.1\iseng.runtimeconfig.dev.json
+D:\belajar\iseng\bin\Debug\netcoreapp3.1\iseng.dll
+D:\belajar\iseng\bin\Debug\netcoreapp3.1\iseng.pdb
+D:\belajar\iseng\obj\Debug\netcoreapp3.1\iseng.csprojAssemblyReference.cache
+D:\belajar\iseng\obj\Debug\netcoreapp3.1\iseng.AssemblyInfoInputs.cache
+D:\belajar\iseng\obj\Debug\netcoreapp3.1\iseng.AssemblyInfo.cs
+D:\belajar\iseng\obj\Debug\netcoreapp3.1\iseng.dll
+D:\belajar\iseng\obj\Debug\netcoreapp3.1\iseng.pdb
